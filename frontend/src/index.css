@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .sideNav{
+    width: 230px;
+    max-width: 100%;
+    background-color: blueviolet;
+  }
+  .content{
+    width: 100%;
+    background-color: aquamarine;
+  }
