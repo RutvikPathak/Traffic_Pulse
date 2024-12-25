@@ -17,43 +17,10 @@ To run this project, you need the following:
 - **Frontend**: Built with React, it provides a GUI interface for visualizing simulations.
 - **Backend**: Built with Node.js, it manages traffic control algorithms and simulation logic.
 - **SUMO Integration**: SUMO is used for traffic simulation and data processing.
-.\
-|--------Backend
-|        |---Controllers
-|        |   |---osmController.js
-|        |---Server.js
-|--------Frontend
-         |---src
-             |---components
-             |   |---Button.jsx
-             |   |---Content.jsx
-             |   |---Hero.jsx
-             |   |---HeroCard.jsx
-             |   |---Layout.jsx
-             |   |---MappView.jsx
-             |   |---Member.jsx
-             |   |---NavBar.jsx
-             |   |---SearchBar.jsx
-             |   |---ServiceCard.jsx
-             |   |---SideNav.jsx
-             |---constants
-             |   |---index.js
-             |---images
-             |   |---<<all media file>>
-             |---pages
-             |   |---Contact.jsx
-             |   |---Home.jsx
-             |   |---Policies.jsx
-             |   |---Simulation.jsx
-             |---section
-             |   |---Feature1.jsx
-             |   |---Feature2.jsx
-             |   |---Footer.jsx
-             |   |---OurTeam.jsx
-             |   |---Service1.jsx
-             |   |---Services.jsx
-             |---App.js, App.css, App.js
-             |---logo.svg
+
+Here is the project folder:
+
+![Folder_structure](./attachments/Folder_structure.JPG)
 
 ## Installation and Setup
 
