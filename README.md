@@ -8,7 +8,7 @@ This project aims to simulate urban traffic and mobility patterns to analyze eff
 - Integration of real-world data for accurate modeling
 - User-friendly interface for inputting data and analyzing results
 
-## Project link: (https://traffic-pulse-eight.vercel.app/) 
+### Project link: https://traffic-pulse-eight.vercel.app/
 
 ## Prerequisites
 To run this project, you need the following:
